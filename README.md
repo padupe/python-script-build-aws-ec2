@@ -1,5 +1,8 @@
 # python-script-build-aws-ec2
 
+## Summary
+Lambda that dynamically creates EC2 instances on AWS.
+
 ## Contact the Developer
 <div align="center">
       <a href="https://www.linkedin.com/in/paulo-eduardo-peixoto-2155a866/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
